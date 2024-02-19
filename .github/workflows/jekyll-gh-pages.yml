@@ -57,3 +57,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+theme: jekyll-theme-minimal
+title: Manon Lorcery's homepage
+description: Bookmark this to keep an eye on my project updates!
+
