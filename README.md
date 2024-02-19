@@ -8,7 +8,7 @@
     <tilte>Manon Lorcery</tilte>
   </head>
   <body>
-    <h1>Title</h1>
+    <h1>My personal page</h1>
     <p>Lorem ipsum dolor sit amet.</p>
   </body>
   </html>
